@@ -1,0 +1,2 @@
+- 👋 Olá, sou @ d3fcon
+- 🌱 Atualmente estou aprendendo Python3
